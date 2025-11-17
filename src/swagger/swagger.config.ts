@@ -3,7 +3,7 @@ const swaggerDocument = {
   info: {
     title: "API Personas, Proyectos y Tareas",
     version: "1.0.0",
-    description: "Documentación generada con Swagger para el proyecto del profesor",
+    description: "Documentación generada con Swagger :)",
   },
 
   servers: [
